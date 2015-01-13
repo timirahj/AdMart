@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		221EA1351A5F239400166050 /* AdMart.png in Resources */ = {isa = PBXBuildFile; fileRef = 221EA1321A5F239400166050 /* AdMart.png */; };
+		221EA1391A5F23D900166050 /* yellowBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 221EA1381A5F23D900166050 /* yellowBackground.png */; };
+		221EA13B1A5F260100166050 /* buyButton1.png in Resources */ = {isa = PBXBuildFile; fileRef = 221EA13A1A5F260100166050 /* buyButton1.png */; };
+		2236E9331A646D8A008D0196 /* PostViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2236E9321A646D8A008D0196 /* PostViewController.m */; };
+		2295A2A61A60A8CF006BAF5D /* Top-backDrop.png in Resources */ = {isa = PBXBuildFile; fileRef = 2295A2A51A60A8CF006BAF5D /* Top-backDrop.png */; };
+		2295A2A91A60AC25006BAF5D /* leftTagButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 2295A2A71A60AC25006BAF5D /* leftTagButton.png */; };
+		2295A2AA1A60AC25006BAF5D /* rightTagButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 2295A2A81A60AC25006BAF5D /* rightTagButton.png */; };
+		22B9B4311A5F5C2700883648 /* sellButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 22B9B4301A5F5C2700883648 /* sellButton.png */; };
 		22D60C251A44AEBE008EA8C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D60C241A44AEBE008EA8C7 /* main.m */; };
 		22D60C281A44AEBE008EA8C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D60C271A44AEBE008EA8C7 /* AppDelegate.m */; };
 		22D60C2B1A44AEBE008EA8C7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D60C2A1A44AEBE008EA8C7 /* ViewController.m */; };
@@ -14,6 +22,20 @@
 		22D60C301A44AEBE008EA8C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C2F1A44AEBE008EA8C7 /* Images.xcassets */; };
 		22D60C331A44AEBE008EA8C7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C311A44AEBE008EA8C7 /* LaunchScreen.xib */; };
 		22D60C3F1A44AEBE008EA8C7 /* AdMart1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D60C3E1A44AEBE008EA8C7 /* AdMart1Tests.m */; };
+		22D60C491A44B740008EA8C7 /* AdMart - Draft1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C481A44B740008EA8C7 /* AdMart - Draft1.jpg */; };
+		22D60C4F1A44B7C3008EA8C7 /* BrowseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D60C4E1A44B7C3008EA8C7 /* BrowseViewController.m */; };
+		22D60C511A44B7EB008EA8C7 /* Buyers-Draft1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C501A44B7EB008EA8C7 /* Buyers-Draft1.jpg */; };
+		22D60C531A44B9FD008EA8C7 /* ChosenAd - Desc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C521A44B9FD008EA8C7 /* ChosenAd - Desc.jpg */; };
+		22D60C561A44BBA4008EA8C7 /* ChosenAdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D60C551A44BBA4008EA8C7 /* ChosenAdViewController.m */; };
+		22D60C581A44BD35008EA8C7 /* Buyers-Draft1-status.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C571A44BD35008EA8C7 /* Buyers-Draft1-status.jpg */; };
+		22D60C5A1A44BD3C008EA8C7 /* ChosenAd - Draft1-statusbar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C591A44BD3C008EA8C7 /* ChosenAd - Draft1-statusbar.jpg */; };
+		22D60C5C1A48E96B008EA8C7 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22D60C5B1A48E96B008EA8C7 /* MessageUI.framework */; };
+		22D60C5E1A48F61E008EA8C7 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22D60C5D1A48F61E008EA8C7 /* QuartzCore.framework */; };
+		22D60C601A5B16F6008EA8C7 /* AdMart-iPadStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C5F1A5B16F6008EA8C7 /* AdMart-iPadStoryboard.storyboard */; };
+		22D60C621A5B220A008EA8C7 /* AdMart-iPad(PostAd).png in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C611A5B220A008EA8C7 /* AdMart-iPad(PostAd).png */; };
+		22D60C651A5B24E9008EA8C7 /* iPadPostViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D60C641A5B24E9008EA8C7 /* iPadPostViewController.m */; };
+		22D60C671A5B584A008EA8C7 /* AdMart-iPad(Home).png in Resources */ = {isa = PBXBuildFile; fileRef = 22D60C661A5B584A008EA8C7 /* AdMart-iPad(Home).png */; };
+		22E5DF061A5CC19A00B1C6F2 /* PaymentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22E5DF051A5CC19A00B1C6F2 /* PaymentViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +49,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		221EA1321A5F239400166050 /* AdMart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AdMart.png; path = ../../AdMart.png; sourceTree = "<group>"; };
+		221EA1381A5F23D900166050 /* yellowBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yellowBackground.png; path = ../../yellowBackground.png; sourceTree = "<group>"; };
+		221EA13A1A5F260100166050 /* buyButton1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = buyButton1.png; path = ../../buyButton1.png; sourceTree = "<group>"; };
+		2236E9311A646D8A008D0196 /* PostViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostViewController.h; sourceTree = "<group>"; };
+		2236E9321A646D8A008D0196 /* PostViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostViewController.m; sourceTree = "<group>"; };
+		2295A2A51A60A8CF006BAF5D /* Top-backDrop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Top-backDrop.png"; path = "../../Top-backDrop.png"; sourceTree = "<group>"; };
+		2295A2A71A60AC25006BAF5D /* leftTagButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = leftTagButton.png; path = ../../leftTagButton.png; sourceTree = "<group>"; };
+		2295A2A81A60AC25006BAF5D /* rightTagButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rightTagButton.png; path = ../../rightTagButton.png; sourceTree = "<group>"; };
+		22B9B4301A5F5C2700883648 /* sellButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sellButton.png; path = ../../sellButton.png; sourceTree = "<group>"; };
 		22D60C1F1A44AEBE008EA8C7 /* AdMart1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdMart1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22D60C231A44AEBE008EA8C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22D60C241A44AEBE008EA8C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +71,24 @@
 		22D60C381A44AEBE008EA8C7 /* AdMart1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdMart1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22D60C3D1A44AEBE008EA8C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22D60C3E1A44AEBE008EA8C7 /* AdMart1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AdMart1Tests.m; sourceTree = "<group>"; };
+		22D60C481A44B740008EA8C7 /* AdMart - Draft1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "AdMart - Draft1.jpg"; path = "../../../Downloads/AdMart - Draft1.jpg"; sourceTree = "<group>"; };
+		22D60C4D1A44B7C3008EA8C7 /* BrowseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BrowseViewController.h; path = ../BrowseViewController.h; sourceTree = "<group>"; };
+		22D60C4E1A44B7C3008EA8C7 /* BrowseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BrowseViewController.m; path = ../BrowseViewController.m; sourceTree = "<group>"; };
+		22D60C501A44B7EB008EA8C7 /* Buyers-Draft1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Buyers-Draft1.jpg"; path = "../../../Downloads/Buyers-Draft1.jpg"; sourceTree = "<group>"; };
+		22D60C521A44B9FD008EA8C7 /* ChosenAd - Desc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ChosenAd - Desc.jpg"; path = "../../../Downloads/ChosenAd - Desc.jpg"; sourceTree = "<group>"; };
+		22D60C541A44BBA4008EA8C7 /* ChosenAdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChosenAdViewController.h; sourceTree = "<group>"; };
+		22D60C551A44BBA4008EA8C7 /* ChosenAdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChosenAdViewController.m; sourceTree = "<group>"; };
+		22D60C571A44BD35008EA8C7 /* Buyers-Draft1-status.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Buyers-Draft1-status.jpg"; path = "../../../Downloads/Buyers-Draft1-status.jpg"; sourceTree = "<group>"; };
+		22D60C591A44BD3C008EA8C7 /* ChosenAd - Draft1-statusbar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ChosenAd - Draft1-statusbar.jpg"; path = "../../../Downloads/ChosenAd - Draft1-statusbar.jpg"; sourceTree = "<group>"; };
+		22D60C5B1A48E96B008EA8C7 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		22D60C5D1A48F61E008EA8C7 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		22D60C5F1A5B16F6008EA8C7 /* AdMart-iPadStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "AdMart-iPadStoryboard.storyboard"; sourceTree = "<group>"; };
+		22D60C611A5B220A008EA8C7 /* AdMart-iPad(PostAd).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AdMart-iPad(PostAd).png"; path = "../../AdMart-iPad(PostAd).png"; sourceTree = "<group>"; };
+		22D60C631A5B24E9008EA8C7 /* iPadPostViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPadPostViewController.h; sourceTree = "<group>"; };
+		22D60C641A5B24E9008EA8C7 /* iPadPostViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iPadPostViewController.m; sourceTree = "<group>"; };
+		22D60C661A5B584A008EA8C7 /* AdMart-iPad(Home).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AdMart-iPad(Home).png"; path = "../../../Downloads/AdMart-iPad(Home).png"; sourceTree = "<group>"; };
+		22E5DF041A5CC19A00B1C6F2 /* PaymentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaymentViewController.h; sourceTree = "<group>"; };
+		22E5DF051A5CC19A00B1C6F2 /* PaymentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PaymentViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +96,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22D60C5E1A48F61E008EA8C7 /* QuartzCore.framework in Frameworks */,
+				22D60C5C1A48E96B008EA8C7 /* MessageUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +114,8 @@
 		22D60C161A44AEBE008EA8C7 = {
 			isa = PBXGroup;
 			children = (
+				22D60C5D1A48F61E008EA8C7 /* QuartzCore.framework */,
+				22D60C5B1A48E96B008EA8C7 /* MessageUI.framework */,
 				22D60C211A44AEBE008EA8C7 /* AdMart1 */,
 				22D60C3B1A44AEBE008EA8C7 /* AdMart1Tests */,
 				22D60C201A44AEBE008EA8C7 /* Products */,
@@ -81,11 +134,36 @@
 		22D60C211A44AEBE008EA8C7 /* AdMart1 */ = {
 			isa = PBXGroup;
 			children = (
+				2295A2A71A60AC25006BAF5D /* leftTagButton.png */,
+				2295A2A81A60AC25006BAF5D /* rightTagButton.png */,
+				2295A2A51A60A8CF006BAF5D /* Top-backDrop.png */,
+				22B9B4301A5F5C2700883648 /* sellButton.png */,
+				221EA1381A5F23D900166050 /* yellowBackground.png */,
+				221EA13A1A5F260100166050 /* buyButton1.png */,
+				221EA1321A5F239400166050 /* AdMart.png */,
+				22D60C611A5B220A008EA8C7 /* AdMart-iPad(PostAd).png */,
+				22D60C661A5B584A008EA8C7 /* AdMart-iPad(Home).png */,
+				22D60C481A44B740008EA8C7 /* AdMart - Draft1.jpg */,
+				22D60C501A44B7EB008EA8C7 /* Buyers-Draft1.jpg */,
+				22D60C571A44BD35008EA8C7 /* Buyers-Draft1-status.jpg */,
+				22D60C521A44B9FD008EA8C7 /* ChosenAd - Desc.jpg */,
+				22D60C591A44BD3C008EA8C7 /* ChosenAd - Draft1-statusbar.jpg */,
 				22D60C261A44AEBE008EA8C7 /* AppDelegate.h */,
 				22D60C271A44AEBE008EA8C7 /* AppDelegate.m */,
 				22D60C291A44AEBE008EA8C7 /* ViewController.h */,
 				22D60C2A1A44AEBE008EA8C7 /* ViewController.m */,
+				22D60C4D1A44B7C3008EA8C7 /* BrowseViewController.h */,
+				22D60C4E1A44B7C3008EA8C7 /* BrowseViewController.m */,
+				22D60C541A44BBA4008EA8C7 /* ChosenAdViewController.h */,
+				22D60C551A44BBA4008EA8C7 /* ChosenAdViewController.m */,
 				22D60C2C1A44AEBE008EA8C7 /* Main.storyboard */,
+				2236E9311A646D8A008D0196 /* PostViewController.h */,
+				2236E9321A646D8A008D0196 /* PostViewController.m */,
+				22E5DF041A5CC19A00B1C6F2 /* PaymentViewController.h */,
+				22E5DF051A5CC19A00B1C6F2 /* PaymentViewController.m */,
+				22D60C5F1A5B16F6008EA8C7 /* AdMart-iPadStoryboard.storyboard */,
+				22D60C631A5B24E9008EA8C7 /* iPadPostViewController.h */,
+				22D60C641A5B24E9008EA8C7 /* iPadPostViewController.m */,
 				22D60C2F1A44AEBE008EA8C7 /* Images.xcassets */,
 				22D60C311A44AEBE008EA8C7 /* LaunchScreen.xib */,
 				22D60C221A44AEBE008EA8C7 /* Supporting Files */,
@@ -168,6 +246,7 @@
 				TargetAttributes = {
 					22D60C1E1A44AEBE008EA8C7 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 93E2HR7CZ6;
 					};
 					22D60C371A44AEBE008EA8C7 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -199,9 +278,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22D60C5A1A44BD3C008EA8C7 /* ChosenAd - Draft1-statusbar.jpg in Resources */,
+				2295A2A91A60AC25006BAF5D /* leftTagButton.png in Resources */,
 				22D60C2E1A44AEBE008EA8C7 /* Main.storyboard in Resources */,
+				22B9B4311A5F5C2700883648 /* sellButton.png in Resources */,
+				22D60C621A5B220A008EA8C7 /* AdMart-iPad(PostAd).png in Resources */,
+				221EA1391A5F23D900166050 /* yellowBackground.png in Resources */,
+				22D60C511A44B7EB008EA8C7 /* Buyers-Draft1.jpg in Resources */,
+				22D60C671A5B584A008EA8C7 /* AdMart-iPad(Home).png in Resources */,
+				22D60C601A5B16F6008EA8C7 /* AdMart-iPadStoryboard.storyboard in Resources */,
+				221EA13B1A5F260100166050 /* buyButton1.png in Resources */,
+				2295A2A61A60A8CF006BAF5D /* Top-backDrop.png in Resources */,
+				2295A2AA1A60AC25006BAF5D /* rightTagButton.png in Resources */,
+				221EA1351A5F239400166050 /* AdMart.png in Resources */,
 				22D60C331A44AEBE008EA8C7 /* LaunchScreen.xib in Resources */,
+				22D60C581A44BD35008EA8C7 /* Buyers-Draft1-status.jpg in Resources */,
+				22D60C491A44B740008EA8C7 /* AdMart - Draft1.jpg in Resources */,
 				22D60C301A44AEBE008EA8C7 /* Images.xcassets in Resources */,
+				22D60C531A44B9FD008EA8C7 /* ChosenAd - Desc.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,7 +315,12 @@
 			files = (
 				22D60C2B1A44AEBE008EA8C7 /* ViewController.m in Sources */,
 				22D60C281A44AEBE008EA8C7 /* AppDelegate.m in Sources */,
+				22D60C651A5B24E9008EA8C7 /* iPadPostViewController.m in Sources */,
+				22D60C4F1A44B7C3008EA8C7 /* BrowseViewController.m in Sources */,
+				2236E9331A646D8A008D0196 /* PostViewController.m in Sources */,
 				22D60C251A44AEBE008EA8C7 /* main.m in Sources */,
+				22E5DF061A5CC19A00B1C6F2 /* PaymentViewController.m in Sources */,
+				22D60C561A44BBA4008EA8C7 /* ChosenAdViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,6 +444,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = AdMart1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -355,6 +455,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = AdMart1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -414,6 +515,7 @@
 				22D60C441A44AEBE008EA8C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22D60C451A44AEBE008EA8C7 /* Build configuration list for PBXNativeTarget "AdMart1Tests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +524,7 @@
 				22D60C471A44AEBE008EA8C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
