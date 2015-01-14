@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C81A6316-E05B-43EB-AF5E-16CC6ED021E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AdMart1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF67188DF1CE405C252AA613A4D55AABC2545FA0</key>
+		<string>https://github.com/timirahj/AdMart.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AdMart1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF67188DF1CE405C252AA613A4D55AABC2545FA0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/timirahj/AdMart.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF67188DF1CE405C252AA613A4D55AABC2545FA0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF67188DF1CE405C252AA613A4D55AABC2545FA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AdMart1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

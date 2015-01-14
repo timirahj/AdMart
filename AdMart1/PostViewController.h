@@ -9,6 +9,12 @@
 #import <UIKit/UIKit.h>
 
 @interface PostViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
+{
+    int selectedIndex;
+    NSMutableArray *titleArray;
+    NSArray *subtitleArray;
+    NSArray *textArray;
+}
 
 
 

@@ -116,10 +116,13 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                    <connections>
+                        <outlet property="tableView" destination="LqO-RB-es6" id="L3l-m1-ngX"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aRV-Zi-xC3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="403.5" y="4876.5"/>
+            <point key="canvasLocation" x="730.5" y="4863.5"/>
         </scene>
         <!--Browse View Controller-->
         <scene sceneID="Get-00-jiw">
